@@ -7,3 +7,28 @@ For documentation on how to develop Cartesi applications refer to https://docs.c
 For documentation on how to use Deroll refer to https://github.com/tuler/deroll
 
 Application logic should go in `src/index.ts`.
+
+# How to start
+
+Pre-requisites:
+
+- Install RISC-V Docker image
+- Docker running
+
+1. Build
+
+```shell
+cartesi build
+```
+
+2. Start Anvil before run
+
+```shell
+anvil
+```
+
+3. Run
+
+```shell
+cartesi run
+```
