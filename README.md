@@ -8,6 +8,13 @@ For documentation on how to use Deroll refer to https://github.com/tuler/deroll
 
 Application logic should go in `src/index.ts`.
 
+# Contract
+
+This Dapp is currently running on Base
+
+- Application : 0x27c078DF133D949E469F1ee36f3B5F7eB7ddbde4
+- Input Box : 0x59b22D57D4f067708AB0c00552767405926dc768
+
 # How to start
 
 Pre-requisites:
